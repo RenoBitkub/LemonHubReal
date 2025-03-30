@@ -26,7 +26,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        Color = Color3.fromRGB(20, 10, 30),
        Corner = true,
        Stroke = false,
-       StrokeColor = Color3.fromRGB(300, 0, 0)
+       StrokeColor = Color3.fromRGB(250, 0, 0)
       })
       
 ------ Tab
@@ -42,6 +42,6 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RenoBitkub/LemonHub/refs/heads/main/Mobile/Limited/huyzkuto/Loading_UI/MainBloxFruit.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RenoBitkub/LemonHub/refs/heads/main/Mobile/Limited/huyzkuto/Loading_UI/MainBloxFruit.lua"))()
   end
   })
