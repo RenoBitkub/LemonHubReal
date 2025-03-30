@@ -42,6 +42,6 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RenoBitkub/LemonHub/refs/heads/main/Mobile/Limited/huyzkuto/Loading_UI/MainBloxFruit.lua")()
   end
   })
