@@ -8,7 +8,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         Key = {
         KeySystem = true,
         Title = "Key System",
-        Description = "Lemon Hub Premium Script",
+        Description = "https://discord.gg/AfcRjyTd",
         KeyLink = "https://scwz.me/ww7hPv",
         Keys = {"LEMON_LN6XL-WM1Z7-ZV4N-TJG2G-SMGOP"},
         Notifi = {
@@ -25,7 +25,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        Size = {50, 50},
        Color = Color3.fromRGB(20, 10, 30),
        Corner = true,
-       Stroke = false,
+       Stroke = true,
        StrokeColor = Color3.fromRGB(250, 0, 0)
       })
       
