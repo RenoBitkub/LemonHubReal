@@ -3,12 +3,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "Lemon Script [ Paid ]",
-         Animation = "Join Discord Server To Get Free Key"
+         Animation = "Welcome"
          },
         Key = {
         KeySystem = true,
         Title = "Key System",
-        Description = "true",
+        Description = "Lemon Hub Premium Script",
         KeyLink = "https://scwz.me/ww7hPv",
         Keys = {"LEMON_LN6XL-WM1Z7-ZV4N-TJG2G-SMGOP"},
         Notifi = {
