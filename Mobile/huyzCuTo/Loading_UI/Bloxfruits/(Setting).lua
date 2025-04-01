@@ -10,8 +10,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         Title = "Key System",
         Description = "https://discord.gg/AfcRjyTd",
         KeyLink = "https://scwz.me/ww7hPv",
-        Keys = {"LEMON_LN6XL-WM1Z7-ZV4N-TJG2G-SMGOP"}
-	       {"Infinite_Key-3defts4rds3lvj"},
+        Keys = {"LEMON_LN6XL-WM1Z7-ZV4N-TJG2G-SMGOP"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Correct Key Loading Script...",
