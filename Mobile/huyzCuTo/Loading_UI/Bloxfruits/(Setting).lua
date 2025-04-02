@@ -31,7 +31,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       
 ------ Tab
      local Tab1o = MakeTab({Name = "Script Main"})
-     
+     local Tab2o = MakeTab({Name = "Script Main V2"})
 ------- BUTTON
     
     AddButton(Tab1o, {
@@ -43,5 +43,17 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RenoBitkub/LemonHub/refs/heads/main/Mobile/Limited/huyzkuto/Loading_UI/MainBloxFruit.lua"))()
+  end
+  })
+
+   AddButton(Tab2o, {
+     Name = "Lemon Hub Premium",
+    Callback = function()
+	  local Settings = {
+  JoinTeam = "Pirates"; -- Pirates/Marines
+  Translator = true; -- true/false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RenoBitkub/LemonV2/refs/heads/main/Mobile/Lemonreal/skibidi/Loading_GUI/(settings).lua"))()
   end
   })
