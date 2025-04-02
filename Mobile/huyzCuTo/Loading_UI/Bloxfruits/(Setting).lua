@@ -9,7 +9,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         KeySystem = true,
         Title = "Key System",
         Description = "https://discord.gg/AfcRjyTd",
-        KeyLink = "https://scwz.me/ww7hPv",
+        KeyLink = "https://scwz.me/4FaBz2",
         Keys = {"4DFJVWZDB5"},
         Notifi = {
         Notifications = true,
